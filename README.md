@@ -1,0 +1,1 @@
+Apliacion sensilla para paracticar react native 
